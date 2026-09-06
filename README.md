@@ -79,10 +79,10 @@ Support The Samaritan Project at [buymeacoffee.com/thesamaritanproject](https://
 
 ## License
 
-MIT-free to use, modify, and distribute.
+MIT, free to use, modify, and distribute.
 
 ---
 
 ## About the developer
 
-[Harold Mansfield](https://linkedin.com/in/haroldmansfield/),  AI Consultant & Integration Specialst | Sec+ CySA+
+[Harold Mansfield](https://linkedin.com/in/haroldmansfield/),  AI Consultant & Integration Specialist | Sec+ CySA+
